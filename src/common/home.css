@@ -1,22 +1,3 @@
-.top {
+.HomeDiv {
   padding: 15px;
-}
-
-.top button {
-  margin: 5px;
-}
-
-.top input {
-  margin: 5px;
-  width: 25%;
-}
-
-.test {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-}
-
-.test div {
-  margin: 10px;
 }
