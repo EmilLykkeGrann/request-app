@@ -1,3 +1,21 @@
 .HomeDiv {
   padding: 15px;
 }
+
+.field {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.field input {
+  width: 800px;
+}
+
+.HomeDiv input {
+  width: 800px;
+}
+
+.distance {
+  margin-left: 5px;
+  margin-right: 5px;
+}
