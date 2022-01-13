@@ -7,8 +7,9 @@
   margin-bottom: 10px;
 }
 
-.field input {
+.field textarea {
   width: 800px;
+  height: 400px;
 }
 
 .HomeDiv input {

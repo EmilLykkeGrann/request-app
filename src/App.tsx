@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import Navbar from './components/navbar';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
 import Home from './components/home';
@@ -9,6 +9,7 @@ import Contact from './components/contact';
 
 function App() {
   return (
+    
     <Router>
         <div className="App">
           <Navbar />
